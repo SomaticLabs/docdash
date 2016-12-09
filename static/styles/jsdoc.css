@@ -338,15 +338,15 @@ footer {
   width: inherit;
   line-height: 18px;
   display: block;
-  background-color: #0d152a;
-  color: #aeaeae;
+  /*background-color: #0d152a;
+  color: #aeaeae;*/
 }
 
 .prettyprint code {
   line-height: 18px;
   display: block;
-  background-color: #0d152a;
-  color: #4D4E53;
+  /*background-color: #0d152a;
+  color: #4D4E53;*/
 }
 
 .prettyprint > code {
