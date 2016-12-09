@@ -271,7 +271,8 @@ footer {
 }
 
 .type-signature {
-  color: #CA79CA
+  color: #BCBCBC;
+  font-style: italic;
 }
 
 .type-signature:last-child {
