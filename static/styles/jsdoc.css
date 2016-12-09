@@ -190,8 +190,8 @@ nav ul {
 
 nav ul a,
 nav ul a:active {
-  font-family: 'Exo 2', 'Montserrat', sans-serif;
-  line-height: 18px;
+  /* font-family: 'Exo 2', 'Montserrat', sans-serif;
+  line-height: 18px; */
   padding: 0;
   display: block;
   font-size: 18px;
