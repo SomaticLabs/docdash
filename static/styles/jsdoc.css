@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400,400i,700,700i|PT+Mono|PT+Sans:400,400i,700,700i');
 
 * {
   box-sizing: border-box
@@ -14,7 +14,7 @@ body {
   background-color: white;
   margin: 0 auto;
   padding: 0 20px;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'PT Sans', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 16px;
   line-height: 160%;
 }
@@ -46,7 +46,7 @@ p, ul, ol, blockquote {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Exo 2', 'Montserrat', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -114,7 +114,7 @@ h6 {
 }
 
 tt, code, kbd, samp {
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-family: 'PT Mono', Consolas, Monaco, 'Andale Mono', monospace;
   background: #f4f4f4;
   padding: 1px 5px;
 }
@@ -190,7 +190,7 @@ nav ul {
 
 nav ul a,
 nav ul a:active {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Exo 2', 'Montserrat', sans-serif;
   line-height: 18px;
   padding: 0;
   display: block;
@@ -279,7 +279,7 @@ footer {
 }
 
 .name, .signature {
-  font-family: Consolas, Monaco, 'Andale Mono', monospace
+  font-family: 'PT Mono', Consolas, Monaco, 'Andale Mono', monospace
 }
 
 .signature {
@@ -416,7 +416,7 @@ footer {
 
 .params td, .params .name, .props .name, .name code {
    color: #4D4E53;
-   font-family: Consolas, Monaco, 'Andale Mono', monospace;
+   font-family: 'PT Mono', Consolas, Monaco, 'Andale Mono', monospace;
    font-size: 100%;
 }
 
@@ -454,7 +454,7 @@ footer {
 
 span.param-type, .params td .param-type, .param-type dd {
    color: #606;
-  font-family: Consolas, Monaco, 'Andale Mono', monospace
+  font-family: 'PT Mono', Consolas, Monaco, 'Andale Mono', monospace
 }
 
 .param-type dt, .param-type dd {
