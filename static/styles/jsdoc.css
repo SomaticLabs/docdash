@@ -51,12 +51,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-weight: 400;
+  font-weight: 700;
   margin: 0;
 }
 
 h1 {
-  font-weight: 300;
+  font-weight: 700;
   font-size: 48px;
   margin: 1em 0 .5em;
 }
@@ -154,7 +154,7 @@ section {
   font-size: 60%;
   color: #eee;
   font-style: italic;
-  font-weight: lighter;
+  font-weight: 400;
 }
 
 nav {
@@ -262,7 +262,7 @@ footer {
 }
 
 .important {
-  font-weight: bold;
+  font-weight: 700;
   color: #950B02;
 }
 
